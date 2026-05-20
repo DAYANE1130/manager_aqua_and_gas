@@ -10,3 +10,5 @@ obter a medição através da foto de um medidor.
 * Arquitetura MSC- backend
 * React
 * Docker
+* HTML
+* Css
